@@ -1,0 +1,5 @@
+D:\GitHub\C#\task_test(console)\task_test(console)\bin\Debug\task_test(console).exe.config
+D:\GitHub\C#\task_test(console)\task_test(console)\bin\Debug\task_test(console).exe
+D:\GitHub\C#\task_test(console)\task_test(console)\bin\Debug\task_test(console).pdb
+D:\GitHub\C#\task_test(console)\task_test(console)\obj\Debug\task_test(console).exe
+D:\GitHub\C#\task_test(console)\task_test(console)\obj\Debug\task_test(console).pdb
